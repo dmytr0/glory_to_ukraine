@@ -1,3 +1,5 @@
+Розроблена під DJI O3 Unit камеру (20мм), але пробував вставляти caddx ratel pro 19мм все чудово встає...
+
 ### Для збірки додатково:
 - [Серва Emax ES09](https://vi.aliexpress.com/item/4000975385342.html)
 - [M3 Insert nuts x4](https://vi.aliexpress.com/item/1005003582355741.html)
