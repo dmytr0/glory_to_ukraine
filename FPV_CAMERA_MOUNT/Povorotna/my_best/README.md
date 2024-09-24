@@ -1,9 +1,10 @@
-Для збірки додатково:
-[M3 Insert nuts x4](https://vi.aliexpress.com/item/1005003582355741.html)
-[PTFE трубка ID2mm OD4mm](https://vi.aliexpress.com/item/1005001446770552.html)
-Гвинт M2x12 x1
-Шуруп M1.2x5 x2
-Фіксатор різьби
+### Для збірки додатково:
+- [M3 Insert nuts x4](https://vi.aliexpress.com/item/1005003582355741.html)
+- [PTFE трубка ID2mm OD4mm](https://vi.aliexpress.com/item/1005001446770552.html)
+- Гвинт M2x12 x1
+- Шуруп M1.2x5 x2
+- Фіксатор різьби
+
 
 ![](/FPV_CAMERA_MOUNT/Povorotna/my_best/1.jpg)
 ![](/FPV_CAMERA_MOUNT/Povorotna/my_best/2.jpg)
