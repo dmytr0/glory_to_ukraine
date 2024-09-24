@@ -1,1 +1,1 @@
-# glory_to_ukraine
+# Glory To Ukraine 🇺🇦
