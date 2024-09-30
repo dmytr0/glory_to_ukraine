@@ -5,7 +5,7 @@
 # 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
-![Інше на Thingiverse](https://www.thingiverse.com/dimonick/designs)
+[Інше на Thingiverse](https://www.thingiverse.com/dimonick/designs)
 
 
 ![](/lemon.webp)
