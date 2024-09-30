@@ -1,5 +1,5 @@
 
-🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
+# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
 [Інструкція](https://lizard-innovation-0ff.notion.site/SDUA-78aa5b77323f42eca06a9260f028d619)
