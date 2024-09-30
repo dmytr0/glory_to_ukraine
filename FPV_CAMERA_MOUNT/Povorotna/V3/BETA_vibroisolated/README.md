@@ -2,7 +2,9 @@
 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
-Третя моя версія. Розроблена під DJI O3 Unit камеру (20мм) та 19мм аналог (типу caddx ratel)
+БЕТА ВЕРСІЯ! Не тестована!
+Модифікація 3 версії на демпферах. 
+Розроблена під DJI O3 Unit камеру (20мм) та 19мм аналог (типу caddx ratel)
 
 ### Для збірки додатково:
 - [Серва Emax ES09](https://vi.aliexpress.com/item/4000975385342.html)
@@ -13,7 +15,8 @@
 - Фіксатор різьби
 
 
-![](/FPV_CAMERA_MOUNT/Povorotna/V3/1.jpg)
-![](/FPV_CAMERA_MOUNT/Povorotna/V3/2.jpg)
-![](/FPV_CAMERA_MOUNT/Povorotna/V3/3.jpg)
+![](/FPV_CAMERA_MOUNT/Povorotna/V3/BETA_vibroisolated/1.jpg)
+![](/FPV_CAMERA_MOUNT/Povorotna/V3/BETA_vibroisolated/2.jpg)
+![](/FPV_CAMERA_MOUNT/Povorotna/V3/BETA_vibroisolated/3.jpg)
+![](/FPV_CAMERA_MOUNT/Povorotna/V3/BETA_vibroisolated/4.jpg)
 
