@@ -1,5 +1,5 @@
 
-[DONATE](https://send.monobank.ua/jar/8GPxyGjM8E)
+🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
 ![](/PD_QC_module/5.jpg)

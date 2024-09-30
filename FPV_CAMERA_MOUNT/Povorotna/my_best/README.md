@@ -1,5 +1,5 @@
 
-[DONATE](https://send.monobank.ua/jar/8GPxyGjM8E)
+🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
 Розроблена під DJI O3 Unit камеру (20мм), але пробував вставляти caddx ratel pro 19мм все чудово встає...
