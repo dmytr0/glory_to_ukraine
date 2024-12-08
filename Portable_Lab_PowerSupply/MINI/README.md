@@ -24,4 +24,6 @@ Batteries 21700 x 13 with discharge current more than DC module.
 
 ![](/Portable_Lab_PowerSupply/MINI/3.jpg)
 
+![](/Portable_Lab_PowerSupply/MINI/4.jpg)
+
 
