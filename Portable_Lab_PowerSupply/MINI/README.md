@@ -8,7 +8,7 @@ I used [this BMS](https://www.aliexpress.com/item/1005007520909234.html) but can
 
 Batteries 21700 x 13 with discharge current more than DC module.
 
-[Switch button](https://www.aliexpress.com/item/1005006692629497.html)
+[Switch button 10x15](https://www.aliexpress.com/item/1005006692629497.html)
 
 [XT60E-M](https://www.aliexpress.com/item/1005006996906406.html) x 2
 
