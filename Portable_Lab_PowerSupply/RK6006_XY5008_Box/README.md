@@ -14,7 +14,6 @@ DC module [Riden RK6006](https://vi.aliexpress.com/item/1005005772922195.html).
 
 [Optional if absent on module. FAN 2510 5V](https://vi.aliexpress.com/item/1005005334088300.html)
 
-[Optional. Battery indicator '13S' OR '3S-16S'](https://www.aliexpress.com/item/1005005479929375.html)
 
 ![](/Portable_Lab_PowerSupply/RK6006_XY5008_Box/1.jpg)
 
