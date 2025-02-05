@@ -26,12 +26,12 @@ Batteries 21700 x 13 with discharge current more than DC module.
 
 [Optional. Battery indicator '13S' OR '3S-16S'](https://www.aliexpress.com/item/1005005479929375.html)
 
-![](/Portable_Lab_PowerSupply/MINI/1.jpg)
+![](/Portable_Lab_PowerSupply/MINI_autonomous/1.jpg)
 
-![](/Portable_Lab_PowerSupply/MINI/2.jpg)
+![](/Portable_Lab_PowerSupply/MINI_autonomous/2.jpg)
 
-![](/Portable_Lab_PowerSupply/MINI/3.jpg)
+![](/Portable_Lab_PowerSupply/MINI_autonomous/3.jpg)
 
-![](/Portable_Lab_PowerSupply/MINI/4.jpg)
+![](/Portable_Lab_PowerSupply/MINI_autonomous/4.jpg)
 
 
