@@ -7,8 +7,9 @@
 
 Камера:
 
+- dji_cam - O4 PRO, O3 Units
+- 20mm - O3 Unit
 - 19mm - caddx/walksnail
-- 20mm - O3
 - Всі інші підбирати по розміру.
 
 Рама:
