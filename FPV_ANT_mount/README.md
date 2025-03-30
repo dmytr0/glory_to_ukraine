@@ -7,3 +7,5 @@
 
 ![](/FPV_ANT_mount/2.jpg)
 
+![](/FPV_ANT_mount/sma_wings.png)
+
