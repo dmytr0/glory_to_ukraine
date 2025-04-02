@@ -10,3 +10,8 @@
 
 ![](/FPV_CAMERA_MOUNT/2.jpg)
 
+---
+
+[vtx_stand_xl10v7.stl](/FPV_CAMERA_MOUNT/vtx_stand_xl10v7.stl)
+
+![](/FPV_CAMERA_MOUNT/vtx_stand_xl10v7.jpg)
