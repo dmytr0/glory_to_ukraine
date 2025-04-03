@@ -10,6 +10,10 @@
 
 ![](/FPV_CAMERA_MOUNT/2.jpg)
 
+![](/FPV_CAMERA_MOUNT/dji_O3_stand.png)
+
+![](/FPV_CAMERA_MOUNT/dji_O4_pro_stand.png)
+
 ---
 
 [vtx_stand_xl10v7.stl](/FPV_CAMERA_MOUNT/vtx_stand_xl10v7.stl)
