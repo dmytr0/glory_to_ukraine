@@ -1,3 +1,4 @@
 *.3mf
 *.DS_Store
 .idea
+tmp**
