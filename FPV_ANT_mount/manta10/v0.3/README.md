@@ -15,17 +15,17 @@ DJI video antennas mount
 
 Note: для використання маунту для O3 Unit використовуйте поворотку [manta10_L_body.V3.stl](/FPV_CAMERA_MOUNT/Povorotna/V3/manta10_L_body.V3.stl)
 
-![](/FPV_ANT_mount/manta10/0.3/media/1.jpg)
+![](/FPV_ANT_mount/manta10/v0.3/media/1.jpg)
 
-![](/FPV_ANT_mount/manta10/0.3/media/2.jpg)
+![](/FPV_ANT_mount/manta10/v0.3/media/2.jpg)
 
 
 ---
 
 RX Mount
 
-![](/FPV_ANT_mount/manta10/0.3/media/3.jpg)
+![](/FPV_ANT_mount/manta10/v0.3/media/3.jpg)
 
-![](/FPV_ANT_mount/manta10/0.3/media/4.jpg)
+![](/FPV_ANT_mount/manta10/v0.3/media/4.jpg)
 
 

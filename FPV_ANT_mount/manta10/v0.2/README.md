@@ -5,7 +5,7 @@
 
 ---
 
-Рекормендується версія [V0.3](/FPV_ANT_mount/manta10/0.3)
+Рекормендується версія [V0.3](/FPV_ANT_mount/manta10/v0.3)
 
 
 Моделі складних кріплень антен V0.2
@@ -16,5 +16,5 @@
 
 DJI video antennas mount
 
-![](/FPV_ANT_mount/manta10/0.2/media/1.jpg)
+![](/FPV_ANT_mount/manta10/v0.2/media/1.jpg)
 
