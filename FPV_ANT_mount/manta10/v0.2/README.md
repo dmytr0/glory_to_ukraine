@@ -5,16 +5,15 @@
 
 ---
 
-Рекормендується версія [V0.3](/FPV_ANT_mount/manta10/v0.3)
+## Моделі складних кріплень антен V0.2
 
-
-Моделі складних кріплень антен V0.2
+__Рекормендується версія [V0.3](/FPV_ANT_mount/manta10/v0.3)__
 
 Для збірки потрібен гвинт M3x30 (наприклад від стеку speedybee)
 
 ---
 
-DJI video antennas mount
+### DJI video antennas mount
 
 ![](/FPV_ANT_mount/manta10/v0.2/media/1.jpg)
 
