@@ -17,3 +17,10 @@ XXmm - Ширнина камери (Caddx Ratel 19mm, O3 unit - 20mmі т.д.)
 
 ![](/FPV_CAMERA_MOUNT/Static/media/4.jpg)
 
+---
+
+v2_O4_M3.stl для DJI O4 Pro два варіанти розташування
+
+![](/FPV_CAMERA_MOUNT/Static/media/m4v2_o4_static_1.png)
+
+![](/FPV_CAMERA_MOUNT/Static/media/m4v2_o4_static_2.png)
