@@ -3,6 +3,13 @@
 
 ‼️ Моделі не для продажу! Заборонено комерційне використання кріплень. Автор не несе відповідальності за використання моделей ‼️
 
+
+![](/Portable_Lab_PowerSupply/MINI_autonomous/5.jpg)
+
+![](/Portable_Lab_PowerSupply/MINI_autonomous/6.jpg)
+
+---
+
 top_s_indicator.stl - Верхня кришка з індикатором заряду
 
 top_s.stl - Верхня кришка без індикатору заряду
@@ -10,7 +17,7 @@ top_s.stl - Верхня кришка без індикатору заряду
 
 DC module [XY5008](https://www.aliexpress.com/item/1005005461295265.html) or similar.
 
-I used [this BMS](https://www.aliexpress.com/item/1005007520909234.html) but can bu used same size or smaller with current more than DC module.
+I used [this BMS](https://www.aliexpress.com/item/1005007520909234.html), but it can be used same size or smaller, with current more than DC module.
 
 Batteries 21700 x 13 with discharge current more than DC module.
 
