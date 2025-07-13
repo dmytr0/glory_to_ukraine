@@ -19,6 +19,12 @@
 - XL10V7
 - Manta 10
 
+#### Якщо потрібне кріплення під раму якої нема потрібно [поміряти відстань між центрами стійок](https://dmytr0.github.io/hole-distance/) і висоту стійок рами.
+
+<a href="https://t.me/dimonick" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link"/>
+</a>
+
 _Захист може давати вібрації тому бажано його використовувати тільки для тестів, або впевнитись що пілоту не заважає_ 
 
 ### Для збірки потрібно:

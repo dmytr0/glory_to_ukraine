@@ -6,6 +6,12 @@
 Mark4 v1 - v1_...
 Mark4 v2 - v2_...
 
+#### Якщо потрібне кріплення під раму якої нема потрібно [поміряти відстань між центрами стійок](https://dmytr0.github.io/hole-distance/) і висоту стійок рами.
+
+<a href="https://t.me/dimonick" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link"/>
+</a>
+
 XXmm - Ширнина камери (Caddx Ratel 19mm, O3 unit - 20mmі т.д.)
 
 
