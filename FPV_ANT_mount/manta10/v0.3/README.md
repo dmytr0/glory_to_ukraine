@@ -35,6 +35,8 @@ __Note:__ для використання маунту для O3 Unit викор
 
 [foldable_back_standoff_ant_mount_base_manta10_v0.3.stl](/FPV_ANT_mount/manta10/v0.3/foldable_back_standoff_ant_mount_base_manta10_v0.3.stl)
 
+![](/FPV_ANT_mount/manta10/v0.3/media/7.png)
+
 ![](/FPV_ANT_mount/manta10/v0.3/media/5.jpg)
 
 ![](/FPV_ANT_mount/manta10/v0.3/media/6.jpg)
