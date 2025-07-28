@@ -33,6 +33,7 @@ __Note:__ для використання маунту для O3 Unit викор
 
 ### Альтернативно, якщо сзаду немає інших кріплень, можна використати варіант на стійки. Може бути корисний якщо використовується стандартний XT90 розʼєм.
 
+[foldable_back_standoff_ant_mount_base_manta10_v0.3.stl](/FPV_ANT_mount/manta10/v0.3/foldable_back_standoff_ant_mount_base_manta10_v0.3.stl)
 
 ![](/FPV_ANT_mount/manta10/v0.3/media/5.jpg)
 
