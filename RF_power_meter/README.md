@@ -17,6 +17,8 @@
 
 ![](/RF_power_meter/1.jpg)
 
+Припаяти RX пін до мікрокотролера потужноміра і до RX_PIN Esp
+
 ![](/RF_power_meter/2.jpg)
 
 ![](/RF_power_meter/3.jpg)
