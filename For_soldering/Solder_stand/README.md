@@ -8,7 +8,8 @@
 Для збірки потрібно:
 * [Упорний підшипник Axk0821](https://www.aliexpress.com/item/1005003467230522.html)
 * [Стальний прут 2мм (70+ мм довжина)](https://www.aliexpress.com/item/1005005184745746.html)
-* Антиковзні ніжки опційною
+* [Стопорне кільце на 1.5мм](https://www.aliexpress.com/item/1005002978114679.html)
+* Антиковзні ніжки опційно. Я використав приблизно [такі](https://www.aliexpress.com/item/1005005528385997.html) але можна і інші.
 
 
 ![](/For_soldering/Solder_stand/media/1.jpg)
