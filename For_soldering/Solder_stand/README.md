@@ -5,6 +5,10 @@
 # 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 
+Для збірки потрібно:
+* [Упорний підшипник Axk0821](https://www.aliexpress.com/item/1005003467230522.html)
+* [Стальний прут 2мм (70+ мм довжина)](https://www.aliexpress.com/item/1005005184745746.html)
+
 
 
 ![](/For_soldering/Solder_stand/media/1.jpg)
