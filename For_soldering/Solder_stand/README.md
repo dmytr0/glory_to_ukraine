@@ -1,8 +1,6 @@
 # Тримач котушки припою
 
-
-
-# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
+Підходить під котушки типу Cynel, LAOA, Mechanic або інші з внутрішнім діаметром від 19мм до 21мм і зовнішнім діаметром до 67мм.
 
 
 Для збірки потрібно:
@@ -10,6 +8,10 @@
 * [Стальний прут 2мм (70+ мм довжина)](https://www.aliexpress.com/item/1005005184745746.html)
 * [Стопорне кільце на 1.5мм](https://www.aliexpress.com/item/1005002978114679.html)
 * Антиковзні ніжки опційно. Я використав приблизно [такі](https://www.aliexpress.com/item/1005005528385997.html) але можна і інші.
+
+---
+
+# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
 
 ---
 
