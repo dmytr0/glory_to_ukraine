@@ -15,10 +15,12 @@
 
 ---
 
+![](/For_soldering/Solder_stand/media/12.jpg)
+![](/For_soldering/Solder_stand/media/anim1.gif)
+![](/For_soldering/Solder_stand/media/11.jpg)
 ![](/For_soldering/Solder_stand/media/5.jpg)
 ![](/For_soldering/Solder_stand/media/4.jpg)
 ![](/For_soldering/Solder_stand/media/3.jpg)
-![](/For_soldering/Solder_stand/media/anim1.gif)
 ![](/For_soldering/Solder_stand/media/6.jpg)
 ![](/For_soldering/Solder_stand/media/7.jpg)
 ![](/For_soldering/Solder_stand/media/8.jpg)
@@ -26,6 +28,12 @@
 ![](/For_soldering/Solder_stand/media/10.jpg)
 ![](/For_soldering/Solder_stand/media/1.jpg)
 ![](/For_soldering/Solder_stand/media/2.jpg)
+
+---
+
+![](/For_soldering/Solder_stand/media/14.jpg)
+![](/For_soldering/Solder_stand/media/15.jpg)
+![](/For_soldering/Solder_stand/media/16.jpg)
 
 
 
