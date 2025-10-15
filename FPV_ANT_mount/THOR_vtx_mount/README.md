@@ -13,7 +13,7 @@
 - Mark4V2. Потрібен [спейсер](mark4v2_spacer.stl)
 
 
-![](/FPV_ANT_mount/THOR_vtx_mount/media/1.jpg)
+![](/FPV_ANT_mount/THOR_vtx_mount/media/1.png)
 
 ![](/FPV_ANT_mount/THOR_vtx_mount/media/2.jpg)
 
