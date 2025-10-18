@@ -16,7 +16,7 @@
 Підтримувані рами:
 
 - Manta 10
-- XL10V7. Потрібен [спейсер 5mm](xl10v7_spacer_5mm.stl) OR [спейсер 6mm](xl10v7_spacer_5mm.stl)
+- XL10V7. Потрібен [спейсер 5mm](xl10v7_spacer_5mm.stl) OR [спейсер 6mm](xl10v7_spacer_6mm.stl)
 - Mark4V2. Потрібен [спейсер 5mm](mark4v2_spacer_5mm.stl) OR [спейсер 6mm](mark4v2_spacer_6mm.stl)
 
 
