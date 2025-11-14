@@ -19,7 +19,7 @@ __Note:__ для використання маунту для O3 Unit викор
 
 ![](/FPV_ANT_mount/manta10/v0.3/media/2.jpg)
 
-![](manta10_rear_bottom.jpg)
+![](media/manta10_rear_bottom.jpg)
 
 
 
