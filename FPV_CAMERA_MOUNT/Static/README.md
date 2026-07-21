@@ -3,10 +3,12 @@
 
 ‼️ Моделі не для продажу! Заборонено комерційне використання кріплень. Автор не несе відповідальності за використання моделей ‼️
 
-Mark4 v1 - v1_...
-Mark4 v2 - v2_...
+- Mark4 v1 - v1_...
+- Mark4 v2 - v2_...
 
-#### Якщо потрібне кріплення під раму якої нема потрібно [поміряти відстань між центрами стійок](https://dmytr0.github.io/hole-distance/) і висоту стійок рами.
+
+## Увага!!! Якщо потрібне кріплення під раму якої нема - скористайтесь моїм генератором: https://paramodels-3d.dimonick.win/ 
+
 
 <a href="https://t.me/dimonick" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link"/>
