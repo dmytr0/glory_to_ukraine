@@ -1,5 +1,5 @@
 
-# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
+# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/2JbpBYkhMv) 🍩🍩🍩
 
 
 DC module [Riden RD6024](https://www.aliexpress.com/item/1005003744641750.html) x1

@@ -1,5 +1,5 @@
 
-# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/8GPxyGjM8E) 🍩🍩🍩
+# 🍩🍩🍩 [DONATE](https://send.monobank.ua/jar/2JbpBYkhMv) 🍩🍩🍩
 
 Проставки для дронів для зручного пакування у стеки якщо щось заважає.
 
