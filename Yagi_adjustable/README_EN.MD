@@ -5,7 +5,9 @@
 
 ## Yagi antenna adjustable - a model for tuning a Yagi antenna with movable elements
 
-Designed for finding the geometry of a Yagi antenna (element lengths and spacing) before building a permanent antenna. The driven element, reflector and director(s) slide along the base - you can quickly change their position, find the optimal parameters for your frequency, and then reproduce the result in a "permanent" build.
+Designed for finding the geometry of a Yagi antenna (spacing of the parasitic elements) before building a permanent antenna. The driven element is fixed in place, while the reflector and director(s) slide along the base - you can quickly change their position, find the optimal parameters for your frequency, and then reproduce the result in a "permanent" build.
+
+Once the parameters are found, generate a ready-to-print permanent frame for your frequency at [paramodels-3d.dimonick.win/models/yagi-antenna](https://paramodels-3d.dimonick.win/models/yagi-antenna) - a parametric model of a permanent Yagi antenna.
 
 ![](/Yagi_adjustable/media/anim.gif)
 
